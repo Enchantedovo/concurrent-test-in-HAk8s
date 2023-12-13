@@ -1,0 +1,25 @@
+
+=INFO REPORT==== 12-Dec-2023::13:37:29 ===
+    ts_config_server:(5:<0.72.0>) Config server started, logdir is "/usr/local/tsung/20231212-1337"
+ 
+=INFO REPORT==== 12-Dec-2023::13:37:29 ===
+              ts_mon:(5:<0.54.0>) starting monitor, global 
+
+=INFO REPORT==== 12-Dec-2023::13:37:29 ===
+           ts_config:(5:<0.72.0>) Reading config file: /tsung/config.xml
+
+=INFO REPORT==== 12-Dec-2023::13:37:29 ===
+           ts_config:(5:<0.72.0>) Session name for id 1 is "es_load"
+
+=INFO REPORT==== 12-Dec-2023::13:37:29 ===
+    ts_config_server:(4:<0.72.0>) SYSINFO:Tsung version: 1.6.0
+
+=INFO REPORT==== 12-Dec-2023::13:37:29 ===
+    ts_config_server:(4:<0.72.0>) SYSINFO:Erlang version: Erlang R14B04 (erts-5.8.5) [source] [64-bit] [smp:2:2] [rq:2] [async-threads:8] [kernel-poll:true]
+
+
+=INFO REPORT==== 12-Dec-2023::13:37:29 ===
+    ts_config_server:(4:<0.72.0>) SYSINFO:System architecture x86_64-redhat-linux-gnu
+
+=INFO REPORT==== 12-Dec-2023::13:37:29 ===
+    ts_config_server:(4:<0.72.0>) SYSINFO:Current path: /usr/lib/erlang/lib/tsung-1.6.0/ebin/tsung.beam
